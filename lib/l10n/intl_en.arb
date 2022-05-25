@@ -1,0 +1,9 @@
+{
+  "splashscreentext": "Code Three Taxi Sharing App",
+  "newRideRequest": "New Ride Request",
+  "rideRequestCancelledSuccessfully": "Ride request has been canceled successfully",
+  "cancel": "Cancel",
+  "accept": "Accept",
+  "theRideHasBeenCanceled":"The ride do not exist or has been canceled",
+  "theRideNotExist": "This ride request do not exist"
+}

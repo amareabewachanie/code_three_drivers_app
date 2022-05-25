@@ -1,0 +1,9 @@
+{
+  "splashscreentext": "ኮድ ሶስት ታክሲ አገለግሎት",
+  "newRideRequest": "አዲስ የጉዞ ጥያቄ",
+  "rideRequestCancelledSuccessfully": "የጉዞ ጥያቄውን በትክክል ውድቅ አድረገዋል",
+  "cancel": "አልፍልግም",
+  "accept": "እፈልጋለሁ",
+  "theRideHasBeenCanceled":"ጉዞውን ተጠቃሚው ሰረዞታል ወይም የተሳሳተ ጥሪ ነበር፤ ጉዞው ለገዜው የለም",
+  "theRideNotExist": "ጉዞው የለም"
+}
